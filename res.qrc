@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/chat1.png</file>
+        <file>image/chat2.png</file>
+        <file>image/computers1.png</file>
+        <file>image/computers2.png</file>
+        <file>image/control1.png</file>
+        <file>image/control2.png</file>
+        <file>image/logo.png</file>
+        <file>image/management1.png</file>
+        <file>image/management2.png</file>
+        <file>image/meeting1.png</file>
+        <file>image/meeting2.png</file>
+        <file>image/profile_offline.png</file>
+        <file>image/profile_online.png</file>
+        <file>image/profile_unlogin.png</file>
+        <file>image/logo_title.png</file>
+        <file>image/status_failed.png</file>
+        <file>image/status_success.png</file>
+    </qresource>
+</RCC>
