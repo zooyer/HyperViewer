@@ -6,6 +6,7 @@ HyperViewer is a very simple remote control desktop tools.
 
 ![HyperViewer](image/v1.0.0.1.png)
 
+![HyperViewer](image/v1.0.0.2.png)
 
 
 - Clients are written using Qt tools and can support Windows and Linux.
