@@ -8,6 +8,8 @@ import (
 
 const defaultRegisterTimeout time.Duration = time.Hour
 
+//go get github.com/UncleBig/goCache
+
 type HoleServer interface {
 	SetAddress(key string, ipAddr net.Addr, timeout time.Duration)
 	GetAddress(key string) net.Addr
