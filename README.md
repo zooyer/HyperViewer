@@ -1,6 +1,6 @@
 # HyperViewer
 
-[![travis badge](https://travis-ci.org/go4org/go4.svg?branch=master)](https://github.com/PublicGiter "HyperViewer")
+[![travis badge](https://travis-ci.org/go4org/go4.svg?branch=master)](https://github.com/zooyer "HyperViewer")
 
 HyperViewer is a very simple remote control desktop tools.
 
